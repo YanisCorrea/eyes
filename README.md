@@ -1,13 +1,12 @@
 <a href="https://github.com/YanisCorrea?tab=repositories"><-- Back to my REPOSITORIES page</a>
   
-# Eyes Movement Excercise
+# Eyes Movement Excercise - Description
   Such a funny excercise. The two eyes will follow you wherever you point the mouse pointer. Wherever you go.
   ![image](https://user-images.githubusercontent.com/56746958/134924026-586ad5ef-c3f7-41d5-8dee-c1567e397553.png)
 
-This excercise was part of a tasks for the MIT xPRO program: Web Development with JavaScript.
-
-## Description
+This excercise was part of a tasks for the MIT xPRO program: Web Development with JavaScript. 
 The eyes follow the movement of the mouse pointer as if they were chasing you.
+
 
 ## Installation
 No installation needed.
